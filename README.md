@@ -21,7 +21,7 @@ As a Data Analyst in an EdTech company, tasked with accelerating user growth thr
    - Utilize professional visualizations to support data-backed recommendations.
    - Empower the business team with actionable insights, roadmaps, and strategies.
 
-## Tools Useed
+## Tools Used
 
 - Preferred Visualization Tool: PowerBI Desktop
 - Optional: MS-Excel
